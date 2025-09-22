@@ -9,7 +9,7 @@ Here, you can contribute new software to EESSI or even contribute to the develop
 Relevant repositores:
 - 🆕 [software-layer](https://github.com/EESSI/software-layer) - Go here to for the [software layer](https://www.eessi.io/docs/software_layer/), where you can contribute new software to EESSI
 - ⚙️ [compatibility-layer](https://github.com/EESSI/compatibility-layer) - Go here for information and changes to the [compatibility layer](https://www.eessi.io/docs/compatibility_layer/) enabled by Gentoo Prefix
-- 🗂️ [filesystem-layer](https://github.com/EESSI/filesystem-layer) - GO here for information and changes to the [filesystem layer](https://www.eessi.io/docs/filesystem_layer/) enabled by CernVM-FS
+- 🗂️ [filesystem-layer](https://github.com/EESSI/filesystem-layer) - Go here for information and changes to the [filesystem layer](https://www.eessi.io/docs/filesystem_layer/) enabled by CernVM-FS
 - 🛠️ [software-layer-scripts](https://github.com/EESSI/software-layer-scripts) - Go here for the tooling and scripts used to build software for the [software layer](https://www.eessi.io/docs/software_layer/)
 - 🤖 [eessi-bot-software-layer](https://github.com/EESSI/eessi-bot-software-layer) - Go here for the code powering the EESSI [Build-test-deploy bot](https://www.eessi.io/docs/bot/) used in all EESSI software installations
 - 📚 [docs](https://github.com/EESSI/docs) - Go here to suggest changes to our [documentation](https://eessi.io/docs)
