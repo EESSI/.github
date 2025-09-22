@@ -14,6 +14,6 @@ Relevant repositores:
 - [eessi-bot-software-layer](https://github.com/EESSI/eessi-bot-software-layer) - Go here for the code powering the EESSI [Build-test-deploy bot](https://www.eessi.io/docs/bot/) used in all EESSI software installations
 - [docs](https://github.com/EESSI/docs) - Go here to suggest changes to our [documentation](https://eessi.io/docs)
 
-Thanks to the [MultiXscale](https://www.multixscale.eu/) [EuroHPC](https://www.eurohpc-ju.europa.eu/) project we are able to provide [support](https://www.eessi.io/docs/support/) to the users of EESSI.
+Thanks to the [MultiXscale](https://www.multixscale.eu/) [EuroHPC](https://www.eurohpc-ju.europa.eu/) Centre of Excellence we are able to provide [support](https://www.eessi.io/docs/support/) to the users of EESSI.
 
 The EESSI support portal is hosted in GitLab: https://gitlab.com/eessi/support.
