@@ -4,6 +4,8 @@ Welcome to [EESSI](https://www.eessi.io/)'s GitHub organization! Find our offica
 
 The European Environment for Scientific Software Installations (EESSI, pronounced as "easy") is a collaboration between different European partners in HPC community. The goal of this project is to build a common stack of scientific software installations for HPC systems and beyond, including laptops, personal workstations and cloud infrastructure.
 
+We maintain a [list of systems where EESSI is available](https://www.eessi.io/docs/systems/), and [installing EESSI for yourself](https://www.eessi.io/docs/getting_access/is_eessi_accessible/) is well documented. 
+
 Here, you can contribute new software to EESSI or even contribute to the development of EESSI itself. EESSI is organized in three [layers](https://www.eessi.io/docs/overview/), each with a dedicated repository.
 
 Relevant repositores:
