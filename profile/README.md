@@ -15,6 +15,7 @@ Relevant repositores:
 - 🛠️ [software-layer-scripts](https://github.com/EESSI/software-layer-scripts) - Go here for the tooling and scripts used to build software for the [software layer](https://www.eessi.io/docs/software_layer/)
 - 🤖 [eessi-bot-software-layer](https://github.com/EESSI/eessi-bot-software-layer) - Go here for the code powering the EESSI [Build-test-deploy bot](https://www.eessi.io/docs/bot/) used in all EESSI software installations
 - 📚 [docs](https://github.com/EESSI/docs) - Go here to suggest changes to our [documentation](https://eessi.io/docs)
+- 🔍 [test-suite](https://github.com/EESSI/test-suite) - Go here for the [EESSI ReFrame test suite](https://www.eessi.io/docs/test-suite/).
 
 Thanks to the [MultiXscale](https://www.multixscale.eu/) [EuroHPC](https://www.eurohpc-ju.europa.eu/) Centre of Excellence we are able to provide [support](https://www.eessi.io/docs/support/) to the users of EESSI.
 
